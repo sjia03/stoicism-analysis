@@ -9,4 +9,4 @@ Using NLP methods to explore Stoicism text and the online discourse around Stoic
 
 *Last update: December 7, 2022*
 
-*Current status: exploring how to fine-tune large language models and apply transfer learning to Stoic texts*
+*Current status: learning about deep learning to build a custom Stoicism text generator*
