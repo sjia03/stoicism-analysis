@@ -9,7 +9,7 @@ Using NLP methods to explore Stoicism text and the online discourse around Stoic
 
 ## Personal Reflection
 
-I was scrolling through Amazon’s recommended books, when the cover of a marble figure staring off into the distance with the caption Meditations across the front caught my eye. Intrigued, I decided to do a little research and soon found myself deep in the world of Stoicism. Perhaps it was the zest from my philosophy course last quarter. Or the thought provoking expression Marcus Aurelius had on the cover. Something drew me to press purchase.
+I was scrolling through Amazon’s recommended books, when the cover of a marble figure staring off into the distance with the caption "Meditations" across the front caught my eye. Intrigued, I decided to do a little research and soon found myself deep in the world of Stoicism. Perhaps it was the zest from my philosophy course last quarter. Or the thought provoking expression Marcus Aurelius had on the cover. Something drew me to press purchase.
 
 As I got to know Stoic philosophers like Seneca and Epictetus through my Kindle, I became increasingly fascinated by the stark contrast between the principles of this philosophy in comparison with the evolution of our modern, technological society. In a world where data is plentiful, media is life and materialism is idealized, the grounds of Stoicism are at risk. 
 
