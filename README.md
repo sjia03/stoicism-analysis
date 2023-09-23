@@ -1,6 +1,6 @@
 # stoicism-analysis
 
-Using NLP methods to explore Stoicism text and the online discourse around Stoicism (Twitter, Reddit, articles, papers). 
+Self-learned text cleaning and analysis methods for ENGL197: Digital Humanities final project. Applied learnings to analyze the sentiment of Stoicism work across ancient texts and modern day social media.
 
 ## Notebook Files
 - `text-analysis-v1`: exploring patterns in *Meditations* by Marcus Aurelius 
